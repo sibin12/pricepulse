@@ -1,0 +1,7 @@
+# Local settings with secrets (template: .env.example)
+.env
+.env.*
+!.env.example
+
+# Local database backups (contain user data)
+backups/
